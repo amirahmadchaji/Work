@@ -233,8 +233,9 @@ body {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: rgba(55, 52, 52, 0.872);
-    padding: 55px 0;
+    background-color: rgba(78, 78, 78, 0.466);
+    padding: 55px 0; 
+       color: white;
 }
 
 .foter_box_left {
@@ -242,6 +243,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    color: white;
 
 }
 
@@ -249,6 +251,7 @@ body {
     display: inline;
     font-size: 20px;
     letter-spacing: 1px;
+    color: white;
 }
 
 
@@ -256,12 +259,14 @@ body {
 .foter_box_main h2 {
     text-align: center;
     padding: 0 0 10px 0;
+    color: white;
 }
 
 .foter_box_main_div {
     display: flex;
     justify-content: center;
     align-items: center;
+    color: white;
 }
 
 .foter_box_main_div div {
@@ -270,6 +275,7 @@ body {
     border-radius: 45%;
     width: 25px;
     height: 25px;
+    color: white;
 }
 
 
@@ -280,6 +286,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    color: white;
 }
 
 .foter_box_right_top p {
@@ -288,6 +295,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    color: white;
 }
 
 .foter_box_right_buttm {
